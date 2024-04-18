@@ -1,0 +1,55 @@
+{
+    "name": "Anti Gcast",
+    "description": "I am Simple Anti Gcast",
+    "logo": "https://github.com/Rehansaputradewantoro/Antigcast",
+    "keywords": [
+        "Auto",
+        "Approved",
+        "Group",
+        "Invite",
+        "Link",
+        "Bot"
+    ],
+    "repository": "https://github.com/hitokizzy/anticast",
+    "env": {
+        "APP_ID": {
+            "description": "Your APP ID",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },        
+        "LOG_CHANNEL_ID": {
+            "description": "Group private",
+            "value": "-100"
+        },
+        "MONGO_DB_URI": {
+            "description": "Database Mongodb",
+            "value": "-100"
+        },
+        "OWNER_NAME": {
+            "description": "Nama Owner",
+            "value": "-100"
+        },
+        "OWNER_ID": {
+            "description": "Owner ID",
+            "value": "-100"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "basic"
+        }
+    }
+}
