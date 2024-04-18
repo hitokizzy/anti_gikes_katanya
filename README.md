@@ -32,3 +32,9 @@ cocok buat yang mao cari duit dari jalur GAY
 jangan fork, jangan kasih bintang
 
 clone aja langsung !!!
+
+
+
+ga bisa di deploy ???
+sengaja kok, biar lu ada effort buat mikir dikit !!!
+
