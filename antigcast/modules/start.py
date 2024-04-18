@@ -15,8 +15,8 @@ CTYPE = enums.ChatType
 inlinegc = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="Owner", url="https://t.me/Revans505"),
-            InlineKeyboardButton(text="Channel", url="https://t.me/Revanstoreya")
+            InlineKeyboardButton(text="Owner", url=""), #isi link telegram 
+            InlineKeyboardButton(text="Channel", url="") #isi link channel store
         ]
     ]
 )
@@ -28,7 +28,7 @@ inline = InlineKeyboardMarkup(
         ],
         [
                     InlineKeyboardButton(text="Creator", url=f"http://t.me/{OWNER_NAME}"),
-                    InlineKeyboardButton(text="Channel", url="https://t.me/Revanstoreya")
+                    InlineKeyboardButton(text="Channel", url="") #isi link channel store
         ]
     ]
 )
@@ -88,12 +88,14 @@ async def close_cbq(client: Bot, query: CallbackQuery):
     except:
         pass
 
+#edit harganya
+
 @Bot.on_callback_query(filters.regex(r"langganan"))
 async def bayar_cbq(client: Bot, query: CallbackQuery):
     btn = InlineKeyboardMarkup(admin_panel())
-    text = """**Silahkan pilih Plan Subscription untuk berlangganan Bot Anti Gcast Revans**
+    text = """**Silahkan pilih Plan Subscription untuk berlangganan Bot Anti Gcast **
 
-1 Bulan : `Rp. 50.000,-`
+1 Bulan : `Rp. 50.000,-`  
 3 Bulan : `RP. 150.000,-`"""
     await query.edit_message_text(
         text = text,

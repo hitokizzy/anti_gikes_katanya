@@ -38,4 +38,3 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 def LOGGER(name: str) -> logging.Logger:
     return logging.getLogger(name)
 
-CREATOR = [ 1998135373, 995099715]

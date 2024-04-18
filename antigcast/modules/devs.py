@@ -11,7 +11,6 @@ from antigcast.config import *
 from antigcast.helpers.tools import *
 from antigcast.helpers.database import *
 
-OWNER_ID = [995099715, 1998135373]
 
 async def send_msg(chat_id, message: Message):
     try:

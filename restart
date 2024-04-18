@@ -1,2 +1,0 @@
-sudo rm *.session*
-python3 -m antigcast
