@@ -10,7 +10,7 @@
         "Link",
         "Bot"
     ],
-    "repository": "https://github.com/hitokizzy/anticast",
+    "repository": "https://github.com/hitokizzy/anti_gikes_katanya",
     "env": {
         "APP_ID": {
             "description": "Your APP ID",
