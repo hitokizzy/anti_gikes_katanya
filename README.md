@@ -1,5 +1,5 @@
 # ANTI GIKES KATANYA
-Bot telegram buat apus apusin gikes
+Bot telegram buat apus apusin gikes,
 repo ini bukan buatan GeezRam atau Fakedevs, cuma nyolong dari yang udah nyolong dari yang nyolong juga
 
 ## TAPI BOONG
