@@ -11,7 +11,7 @@ cocok buat yang mao cari duit dari jalur GAY
 <a href="https://heroku.com/deploy?template=https://github.com/hitokizzy/anti_gikes_katanya">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
-<a href= #### Tutor VPS step by step
+#### Tutor VPS step by step
 - git clone https://github.com/hitokizzy/anti_gikes_katanya
 - cd Antigcast
 - sudo apt install python3.10 -venv
@@ -21,9 +21,9 @@ cocok buat yang mao cari duit dari jalur GAY
 - cp sample.env .env
 - nano .env (isi vars nya)
 - bash start
-- bakar roko, seduh kopi, nyender</a>
+- bakar roko, seduh kopi, nyender
 
-#### TERAKHIR
+##### TERAKHIR
 jangan fork, jangan kasih bintang
 
 clone aja langsung !!!
