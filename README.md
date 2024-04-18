@@ -11,6 +11,9 @@ cocok buat yang mao cari duit dari jalur GAY
 <a href="https://heroku.com/deploy?template=https://github.com/hitokizzy/anti_gikes_katanya">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
+
+
 #### Tutor VPS step by step
 - git clone https://github.com/hitokizzy/anti_gikes_katanya
 - cd Antigcast
@@ -22,6 +25,8 @@ cocok buat yang mao cari duit dari jalur GAY
 - nano .env (isi vars nya)
 - bash start
 - bakar roko, seduh kopi, nyender
+
+
 
 ##### TERAKHIR
 jangan fork, jangan kasih bintang
