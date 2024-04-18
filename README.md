@@ -21,7 +21,7 @@ cocok buat yang mao cari duit dari jalur GAY
 - cp sample.env .env
 - nano .env (isi vars nya)
 - bash start
-- bakar roko, seduh kopi, nyender
+- bakar roko, seduh kopi, nyender</a>
 
 #### TERAKHIR
 jangan fork, jangan kasih bintang
